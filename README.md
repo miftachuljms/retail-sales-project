@@ -4,7 +4,7 @@
 
 **Project Title**: Retail Sales Analysis  
 **Level**: Beginner  
-**Database**: 'retail_sales_project'
+**Database**: `retail_sales_project`
 
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
 
@@ -60,15 +60,13 @@ The following SQL queries were developed to answer specific business questions:
 ## Suggestion
 
 1. **Evening Promotions**: Offer evening-specific sales or discounts since most purchases happen in the evening.
-   2. **Target High-Value Buyers**: Create exclusive deals or loyalty programs for customers with high-value transactions.
+2. **Target High-Value Buyers**: Create exclusive deals or loyalty programs for customers with high-value transactions.
 3. **Promote Electronics**: Focus marketing on electronics since they generate the highest sales. Consider bundle deals.
 4. **Expand Clothing Selection**: Since clothing is popular, introduce new styles and seasonal collections.
 5. **Gender-Specific Marketing**: Tailor ads for beauty products to females, and for clothing/electronics to males.
 6. **Age-Based Marketing**: Target products like senior-friendly electronics to older customers and beauty items to adults.
 7. **Leverage 2022 Success**: Identify successful strategies from 2022 and replicate them for the next few years.
 8. **Cross-Sell**: Suggest related products from other categories to boost sales (e.g., beauty with electronics or accessories with clothing).
-
-
 
 ## Author - Miftachul Jannah Meilina Subekti
 
